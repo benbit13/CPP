@@ -1,2 +1,1 @@
-# CPP
-CPP projects
+Random programs I made for practice
