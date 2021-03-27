@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-/*
+
 int main()
 {
 	int play = 0;
@@ -56,4 +56,3 @@ int main()
 	system("pause");
 	return 0;
 }
-*/
